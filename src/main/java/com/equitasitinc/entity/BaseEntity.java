@@ -1,4 +1,4 @@
-package com.n9.entity;
+package com.equitasitinc.entity;
 
 import javax.persistence.Column;
 import javax.persistence.MappedSuperclass;

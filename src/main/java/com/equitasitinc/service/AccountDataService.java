@@ -1,13 +1,14 @@
-package com.n9.service;
+package com.equitasitinc.service;
 
-import com.n9.dto.AccountDTO;
-import com.n9.entity.Account;
-import com.n9.exception.AccountException;
-import com.n9.repository.AccountRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import com.equitasitinc.dto.AccountDTO;
+import com.equitasitinc.entity.Account;
+import com.equitasitinc.exception.AccountException;
+import com.equitasitinc.repository.AccountRepository;
 
 import javax.transaction.Transactional;
 import java.util.Date;

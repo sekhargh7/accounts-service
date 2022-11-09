@@ -1,4 +1,4 @@
-package com.n9.filter;
+package com.equitasitinc.filter;
 
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.MDC;

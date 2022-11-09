@@ -1,4 +1,4 @@
-package com.n9;
+package com.equitasitinc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

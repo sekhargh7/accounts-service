@@ -1,4 +1,4 @@
-package com.n9.dto;
+package com.equitasitinc.dto;
 
 public class StatusDTO {
 

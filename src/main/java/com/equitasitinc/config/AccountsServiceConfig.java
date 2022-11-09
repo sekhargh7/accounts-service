@@ -1,4 +1,4 @@
-package com.n9.config;
+package com.equitasitinc.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;

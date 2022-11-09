@@ -1,4 +1,4 @@
-package com.n9.exception;
+package com.equitasitinc.exception;
 
 public class AccountException extends RuntimeException {
     public AccountException() {
